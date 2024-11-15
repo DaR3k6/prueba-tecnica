@@ -1,11 +1,24 @@
+Aquí está lo que escribiste, con algunos ajustes de ortografía y formato para mayor claridad:
+
+```markdown
 ### Primera Parte - Bases de Datos y Lógica
 
 Para inicializar, debes tener Docker instalado. Docker creará una imagen relacionada con MySQL con este comando:
 
 ```bash
 docker-compose up -d
+```
 
+Cuando ya hayas creado el contenedor Docker, debes redirigir a esta URL:
 
+[http://localhost:8080/](http://localhost:8080/)
+
+Por defecto, el servidor será `db`. Selecciona la base de datos predeterminada, que es MySQL. El sistema crea automáticamente el nombre de la base de datos.
+
+El usuario para iniciar sesión es `username` y la contraseña es `123`.
+```
+
+He corregido algunos errores de escritura, como "redirgir" a "redirigir" y "autoamticamente" a "automáticamente", para que el texto sea más claro.
 
 
 
