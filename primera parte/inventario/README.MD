@@ -1,4 +1,4 @@
-## Primera Parte - Bases de Datos y Lógica
+# Primera Parte - Bases de Datos y Lógica
 
 ## Relación de Tablas
 
