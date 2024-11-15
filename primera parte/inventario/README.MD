@@ -5,7 +5,7 @@
 
 La relación de las tablas está hecha en **MySQL Workbench**. Puedes ver el diagrama de relaciones de las tablas a continuación:
 
-![Relación de Tablas](https://github.com/user-attachments/assets/761e64fa-be0c-4a4c-be66-6b4155d0a85a)
+(https://github.com/user-attachments/assets/761e64fa-be0c-4a4c-be66-6b4155d0a85a)
 
 Si deseas revisar las relaciones de las tablas, puedes dirigirte al archivo `inventario.mwb` de MySQL Workbench.
 
