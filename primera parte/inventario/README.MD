@@ -1,10 +1,10 @@
-#Primera Parte - Bases de Datos y Lógica
+##Primera Parte - Bases de Datos y Lógica
 
 ## Relación de Tablas
 
 La relación de las tablas está hecha en **MySQL Workbench**. Puedes ver el diagrama de relaciones de las tablas a continuación:
 
-(https://github.com/user-attachments/assets/761e64fa-be0c-4a4c-be66-6b4155d0a85a)
+![Captura de pantalla 2024-11-15 163807](https://github.com/user-attachments/assets/f0a0cdfb-0811-462d-b062-2e824e7976f7)
 
 Si deseas revisar las relaciones de las tablas, puedes dirigirte al archivo `inventario.mwb` de MySQL Workbench.
 
