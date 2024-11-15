@@ -1,4 +1,3 @@
-Aquí está lo que escribiste, con algunos ajustes de ortografía y formato para mayor claridad:
 
 ```markdown
 ### Primera Parte - Bases de Datos y Lógica
@@ -18,7 +17,6 @@ Por defecto, el servidor será `db`. Selecciona la base de datos predeterminada,
 El usuario para iniciar sesión es `username` y la contraseña es `123`.
 ```
 
-He corregido algunos errores de escritura, como "redirgir" a "redirigir" y "autoamticamente" a "automáticamente", para que el texto sea más claro.
 
 
 
