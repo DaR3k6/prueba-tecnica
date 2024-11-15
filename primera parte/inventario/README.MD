@@ -12,4 +12,5 @@ Cuando ya hayas creado el contenedor Docker, debes redirigir a esta URL:
 Por defecto, el servidor será `db`. Selecciona la base de datos predeterminada, que es MySQL. El sistema crea automáticamente el nombre de la base de datos.
 
 El usuario para iniciar sesión es `username` y la contraseña es `123`.
+![image](https://github.com/user-attachments/assets/3059b8c1-326c-4396-9881-5287e2a6e3ec)
 ```
