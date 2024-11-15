@@ -1,4 +1,3 @@
-
 ```markdown
 ### Primera Parte - Bases de Datos y Lógica
 
@@ -16,8 +15,3 @@ Por defecto, el servidor será `db`. Selecciona la base de datos predeterminada,
 
 El usuario para iniciar sesión es `username` y la contraseña es `123`.
 ```
-
-
-
-
-
