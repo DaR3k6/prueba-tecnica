@@ -1,12 +1,10 @@
-```markdown
-### Primera Parte - Bases de Datos y Lógica
+Primera Parte - Bases de Datos y Lógica
 
 Para inicializar, debes tener Docker instalado. Docker creará una imagen relacionada con MySQL con este comando:
 
 ```bash
 docker-compose up -d
 ```
-
 Cuando ya hayas creado el contenedor Docker, debes redirigir a esta URL:
 
 [http://localhost:8080/](http://localhost:8080/)
