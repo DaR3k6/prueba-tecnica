@@ -8,16 +8,16 @@ const getPokemonController = async (req, res) => {
 		if (!pokemonExists) {
 			const apiData = await getPokemonFromAPI.getPokemonAPI(name);
 
-			const pokemonCreate = await getPokemonFromAPI.createPokemon(apiData);
+			await getPokemonFromAPI.createPokemon(apiData);
 
 			return res.status(201).json({
 				response: true,
-				data: pokemonCreate,
 				message: "Pokémon creado exitosamente",
 			});
 		}
 		return res.status(200).json({
 			response: true,
+			data: pokemonExists,
 			message: "Pokémon encontrado",
 		});
 	} catch (err) {
