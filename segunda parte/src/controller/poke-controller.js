@@ -4,12 +4,11 @@ const getPokemonController = async (req, res) => {
 	const { name } = req.params;
 
 	try {
-		
 		// Validar si hay campos vacios
 		if (!name || typeof name !== "string" || name.trim() === "") {
 			return res.status(400).json({
 				response: false,
-				message: "El nombre del Pokémon es requerido y debe ser una cadena válida.",
+				message: "El nombre del Pokémon es requerido.",
 			});
 		}
 
