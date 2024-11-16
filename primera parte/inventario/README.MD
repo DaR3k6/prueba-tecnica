@@ -20,7 +20,7 @@ Este comando levantará el contenedor en segundo plano. Después de ejecutarlo, 
 
 ## Acceso a la Base de Datos
 
-Una vez que el contenedor Docker esté en ejecución, abre tu navegador y dirígete a la siguiente URL para acceder a la interfaz de MySQL Workbench:
+Una vez que el contenedor Docker esté en ejecución, abre tu navegador y dirígete a la siguiente URL para acceder a la interfaz de Adminer-Hydra:
 
 [http://localhost:8080/](http://localhost:8080/)
 
@@ -35,7 +35,7 @@ Por defecto, el servidor será `db`. Selecciona la base de datos predeterminada,
 
 ## Selección Automática de Base de Datos
 
-Cuando accedas, se seleccionará automáticamente el nombre de la base de datos en el panel de adminer-hydra.
+Cuando accedas, automáticamente muestra el nombre de la base de datos en el panel de Adminer-Hydra.
 
 ![Captura de pantalla 2024-11-15 163355](https://github.com/user-attachments/assets/34159e2c-2558-48e3-afd2-d50df2abc541)
 
