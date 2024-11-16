@@ -3,14 +3,16 @@ const axios = require("axios");
 
 const getPokemonAPI = async (name) => {
 	try {
+		// Validar entrada
+		if (!name || typeof name !== "string" || name.trim() === "")
+			throw new Error("El nombre del Pokémon es requerido y debe ser una cadena válida.");
+
 		// Llamo la api de pokemon
 		const response = await axios.get(`https://pokeapi.co/api/v2/pokemon/${name}`);
 
 		if (!response || !response.data) throw new Error("Pokemon not found in the API");
 
 		const { types, abilities } = response.data;
-
-		console.log(response.data);
 
 		// Traigo los tipos y habilidades
 		const typesArr = types.map((type) => type.type.name);
