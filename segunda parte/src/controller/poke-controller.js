@@ -18,7 +18,6 @@ const getPokemonController = async (req, res) => {
 		}
 		return res.status(200).json({
 			response: true,
-			data: pokemonExists,
 			message: "Pokémon encontrado",
 		});
 	} catch (err) {
