@@ -15,8 +15,8 @@ Este proyecto es una API backend relacionada con la PokeAPI, creada con Node.js 
 Primero, clona este repositorio a tu máquina local:
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
-cd repositorio
+git clone https://github.com/usuario/repositorio.git](https://github.com/DaR3k6/prueba-tecnica.git
+cd segunda parte
 ```
 
 ### 2. Instalar dependencias de Node.js
